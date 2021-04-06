@@ -1,0 +1,3 @@
+create new database named lab_test and import the .sql file provided in the folder
+
+this is the youtube link for the demo   https://youtu.be/DN7FT4lUjGQ
